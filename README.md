@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tiagorobert8
 - 👀 I’m interested in  me tornar um Dev
-- 🌱 I’m currently learning  C#
-- 💞️ I’m looking to collaborate on  Desenvolvimento de Sorftwere 
+- 🌱 I’m currently learning  C#, Java
 - 📫 How to reach me Emeil tiagorobert8@gmail.com
 
 <!---
